@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "tiangolo",
+  "repo": "docker-auto-labels",
+  "versions": [
+    {
+      "commit": "c11b19fc8a16720b6f1d917cebf255701ebff5a0",
+      "parsed_at": "2026-10-11T19:44:13.616291+00:00",
+      "filetree": "filetree/c11b19fc8a16720b6f1d917cebf255701ebff5a0.nq.gz",
+      "blobs": [
+        "blob/0045fb8182cf94a55db192aa3bc8c4c7e033da47.nq.gz",
+        "blob/3036cfc7271cd9a226433b909e4867011608e155.nq.gz",
+        "blob/80867e81c43b391b1b5b81876a42d4d6372c82f0.nq.gz",
+        "blob/e051c911f416e91ee1c5eee7c853d0226c052f80.nq.gz",
+        "blob/bc89f2c3c16b38364adaa93272971c0e99c161db.nq.gz",
+        "blob/9453cd011dec9d54f6ba877ad4bd7357b51280c4.nq.gz",
+        "blob/c90bfcbad623f4a61ba783e79cfd5002ce2235de.nq.gz",
+        "blob/0ffc101a3f23548392499fe5104f3f8cf4d4e91b.nq.gz",
+        "blob/38d00c5ef5d9580c7c04e7cdfe048352c7283e12.nq.gz",
+        "blob/ed61140615b3128b7667f153d9b372fc8e2656df.nq.gz",
+        "blob/6beb113301f07a74ebb328f5ec1abc8cd17818a5.nq.gz",
+        "blob/32ea3e8d48ad2251ef686d4980959323ffbf6a18.nq.gz",
+        "blob/a643b2696305b386b93409e77f89e050b0f63c88.nq.gz",
+        "blob/df112e9d602a3e49dc11d36c4b774a90b526554a.nq.gz",
+        "blob/092988dca25771a498ae9640531336263689fb0d.nq.gz",
+        "blob/c7b27d7548dbf299ca332ad1d5d829a39eda7463.nq.gz",
+        "blob/91428a6aaa2eaf590760dd48279b8b829b54034a.nq.gz",
+        "blob/cd972a0ba47221bf96acedfaed8f3b5cba819849.nq.gz",
+        "blob/a6587aeab980dde9eedcf5fe7a5314f6ce9bff98.nq.gz",
+        "blob/d56378811242de023474893e83a1b5905b66c2ae.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
