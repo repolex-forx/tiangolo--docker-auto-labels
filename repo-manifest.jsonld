@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/docker-auto-labels/commit/c11b19fc8a16720b6f1d917cebf255701ebff5a0",
       "git:hexsha": "c11b19fc8a16720b6f1d917cebf255701ebff5a0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/docker-auto-labels/commit/00f19b5e32f81f2d84b9daa431549a5a8eab60d3",
